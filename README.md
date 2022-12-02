@@ -28,7 +28,7 @@ word-based ConvNets and RNNs.
 
 ## Running the collaboratory notebook
 
-- The notebook can be run on google collaboratory by uploading the notebook and the dataset to the collaboratory environment
+- The notebook can be run on google collaboratory by uploading the notebook and the dataset to the collaboratory environment, after ensuring all the dependencies given in the 'requirements.txt' are met.
 
 ### Team no - 7
 
