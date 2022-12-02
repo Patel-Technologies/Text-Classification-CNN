@@ -2,19 +2,8 @@ matplotlib
 numpy
 torch
 pandas 
-from torch.nn import Sequential as seq
-from torch.nn import Conv1d as c1d
-from torch.nn import Linear as l_n
-from torch.nn import ReLU as rel
-from torch.nn import Dropout as drop
-from torch.utils.data import Dataset
-from torch.utils.data import DataLoader
-torch.optim
-torch.nn.functional
-torch.autograd
-cv2
-from torch.nn import MaxPool1d as m1d
-import os
-from sklearn.metrics import f1_score,accuracy_score,precision_score,recall_score
-import tabulate
-from torchsummary import summary
+torch
+tabulate
+torchsummary
+opencv-python
+scikit-learn
