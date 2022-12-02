@@ -17,14 +17,14 @@ word-based ConvNets and RNNs.
 - Requirements have been mentioned in `requirements.txt` 
 - python environment of version 3.8 or higher is necessary for some inbuilt commands so the testing environment should be appropriate
 
-## Sample outputs
+<!-- ## Sample outputs -->
 
-- The sample outputs are shown below :
+<!-- - The sample outputs are shown below : -->
 
 
-<img src="plot1.png" width="300" height="200">
+<!-- <img src="plot1.png" width="300" height="200"> -->
 
-<img src="plot2.png" width="300" height="200">
+<!-- <img src="plot2.png" width="300" height="200"> -->
 
 ## Running the collaboratory notebook
 
@@ -32,13 +32,13 @@ word-based ConvNets and RNNs.
 
 ### Team no - 7
 
-### Team Name : AnoopSirOp
+### Team Name : Anoop Sir Op
 
 #### Team Members : 
 - Mitul Garg (2020102026)
+- Jay Ghevariya (2020101070)
 - Atharv Sujlegaonkar (2020102025)
 - Tirth Motka (2020101036)
-- Jay Ghevariya (2020101070)
 
 ## Biblography:
 - Character-Level Convolutional Networks for Text Classification, [link](https://github.com/Patel-Technologies/Text-Classification-CNN/blob/main/Research_Paper.pdf) 
